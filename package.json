@@ -1,0 +1,26 @@
+{
+  "name": "typescript_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/google.maps": "^3.48.5",
+    "@types/googlemaps": "^3.43.3",
+    "@types/react-redux": "^7.1.23",
+    "axios": "^0.26.1",
+    "faker": "^5.5.3",
+    "react-redux": "^7.2.8",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1"
+  }
+}
